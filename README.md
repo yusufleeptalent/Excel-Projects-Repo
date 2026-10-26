@@ -1,119 +1,153 @@
-# Excel Data Analysis Project | Data Technician Bootcamp
+# 📊 Excel Data Analysis Project | Data Technician Bootcamp
 
-## Overview
+## 🚀 Overview
 
-This project was completed as part of a **Data Technician Bootcamp**, focusing on developing core Microsoft Excel skills for data analysis, reporting, and visualisation. The workbook contains practical exercises using retail sales, customer transactions, product sales, and bike sales datasets to demonstrate data preparation, analysis, and presentation techniques commonly used by data analysts.
+This project was completed as part of a **Data Technician Bootcamp**, focusing on developing practical **Microsoft Excel** skills for data analysis, reporting, and data visualisation.
 
-The project involved cleaning, transforming, analysing, and visualising data using a range of Excel functions and features. Activities included creating structured tables, performing calculations, analysing trends, producing PivotTables, and building charts to communicate insights effectively. 
+Using retail sales, customer, product, and bike sales datasets, I applied a range of Excel techniques to clean, analyse, summarise, and present data-driven insights. The project demonstrates key analytical skills commonly used in business and data-focused roles. 
+---
 
-## Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
-### Excel Functions
+### 🧮 Excel Functions
 
-Used a variety of Excel formulas to perform calculations and data analysis, including:
+Used a variety of formulas and functions to perform calculations, automate analysis, and extract insights:
 
-- `SUM`
-- `SUMIF`
-- `AVERAGE`
-- `AVERAGEIF`
-- `DATE`
-- `MONTH`
-- `YEAR`
-- `UNIQUE`
-- `VLOOKUP`
-- `MAX`
-- `IF`
-- `SWITCH`
+- ➕ `SUM`
+- 🎯 `SUMIF`
+- 📈 `AVERAGE`
+- 🔍 `AVERAGEIF`
+- 📅 `DATE`
+- 📆 `MONTH`
+- 🗓️ `YEAR`
+- 🆕 `UNIQUE`
+- 🔗 `VLOOKUP`
+- ✅ `IF`
+- 🔄 `SWITCH`
+- 📊 `MAX`
 
 
-These functions were used to calculate totals, averages, commissions, categorise data, extract date components, identify unique values, perform lookups, and evaluate relationships between variables. 
+These functions were used to calculate totals, averages, commissions, classify products, extract date information, identify unique records, perform lookups, and evaluate relationships within datasets. 
 
-### Data Manipulation
+---
 
-- Converted datasets into structured Excel Tables
-- Applied filters to analyse information efficiently
-- Sorted data by various criteria
-- Used conditional formatting to highlight trends and key values
-- Created calculated columns and business rules
-- Categorised records using logical formulas and SWITCH statements
+## 🗂️ Data Preparation & Management
 
-### PivotTables & Reporting
+### 🔎 Filtering & Sorting
+
+- Applied filters to explore large datasets efficiently
+- Sorted data by multiple criteria
+- Identified trends, top performers, and anomalies
+- Improved data accessibility and reporting accuracy
+
+### 🎨 Conditional Formatting
+
+- Highlighted important values and trends
+- Identified high-performing products and customers
+- Improved report readability and presentation
+
+### 🧹 Data Organisation
+
+- Converted raw data into structured Excel Tables
+- Created calculated columns
+- Categorised records using logical formulas and the `SWITCH` function
+- Maintained clean and organised datasets for analysis
+
+---
+
+## 📊 PivotTables & Reporting
 
 Created PivotTables to:
 
-- Summarise retail sales performance
-- Compare product sales across counties
-- Analyse bike sales by country, age group, and gender
-- Identify top-performing products and markets
-- Aggregate and summarise large datasets
+- 📦 Summarise product sales performance
+- 🌍 Compare sales across regions and counties
+- 🚲 Analyse bike sales by country, age group, and gender
+- 💰 Calculate total revenue and sales metrics
+- 🏆 Identify top-performing products and markets
 
-### Data Visualisation
+These reports enabled quick analysis of large datasets and supported data-driven decision-making. 【1-8d03ec】
 
-Produced multiple chart types to present findings, including:
+---
 
-- Column Charts
-- Bar Charts
-- Line Charts
-- Pie Charts
-- Pivot Charts
+## 📈 Data Visualisation
 
-Visualisations were used to communicate:
+Designed and customised charts to communicate insights effectively:
+
+- 📊 Column Charts
+- 📉 Bar Charts
+- 📈 Line Charts
+- 🥧 Pie Charts
+- 🔄 Pivot Charts
+
+Visualisations were used to showcase:
 
 - Revenue trends
-- Profit performance
-- Product sales by region
+- Product performance
+- Regional sales comparisons
 - Customer demographics
-- Market segmentation insights
+- Market segmentation
 
-## Datasets Analysed
+---
+
+## 🛍️ Datasets Analysed
 
 ### Retail Sales Dataset
 
-Analysis included:
-
-- Customer demographics
-- Product category performance
-- Sales and commission calculations
-- High-value transaction identification
-- Sales trend exploration
+- Customer demographic analysis 👥
+- Product category performance 📦
+- Commission calculations 💷
+- High-value transaction identification 💎
+- Sales trend analysis 📈
 
 ### Product Sales Dataset
 
-Analysis included:
-
-- County-level product performance
-- Product volume categorisation using the SWITCH function
-- Sales comparisons across different regions
+- County-level sales analysis 🗺️
+- Product categorisation using `SWITCH` 🔄
+- Sales comparisons across regions 📊
 
 ### Bike Sales Dataset
 
-Analysis included:
+- PivotTable reporting 🚲
+- Market segmentation 🌎
+- Revenue analysis by country 🌍
+- Revenue analysis by age group 👤
+- PivotChart dashboard creation 📈
 
-- PivotTable creation
-- Market segmentation
-- Revenue analysis by country
-- Revenue analysis by age group
-- Interactive PivotChart reporting
+---
 
-## Key Learning Outcomes
+## 🎯 Key Learning Outcomes
 
-- Applied industry-standard Excel data analysis techniques
-- Improved data cleaning and preparation skills
-- Developed confidence using PivotTables and PivotCharts
-- Built experience creating professional dashboards and reports
-- Enhanced ability to turn raw data into actionable business insights
-- Practised presenting analytical findings in a clear and visual format
+✅ Applied industry-standard Excel analysis techniques
 
-## Tools Used
+✅ Developed strong formula-writing skills
+
+✅ Gained confidence using PivotTables and PivotCharts
+
+✅ Improved data cleaning and preparation capabilities
+
+✅ Created professional reports and visualisations
+
+✅ Turned raw business data into actionable insights
+
+✅ Enhanced analytical and problem-solving skills
+
+---
+
+## 💻 Tools & Features Used
 
 - Microsoft Excel
 - PivotTables
 - PivotCharts
+- Excel Tables
+- Filters & Sorting
 - Conditional Formatting
-- Data Filters & Sorting
-- Structured Tables
 - Formula-Based Analysis
+- Data Visualisation Tools
 
-## Project Outcome
+---
 
-This project strengthened practical Excel and analytical skills required for a Data Technician role by transforming raw business data into meaningful insights through calculations, reporting, visualisation, and data-driven decision making.
+## 🏆 Project Outcome
+
+This project strengthened my Excel and analytical capabilities by transforming raw business data into meaningful insights through calculations, reporting, visualisation, and data-driven decision-making.
+
+It demonstrates practical skills relevant to **Data Analyst**, **Data Technician**, and **Business Intelligence** roles, showcasing the ability to analyse data, identify trends, and communicate findings effectively.
