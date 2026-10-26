@@ -112,6 +112,8 @@ Visualisations were used to showcase:
 - Revenue analysis by country 🌍
 - Revenue analysis by age group 👤
 - PivotChart dashboard creation 📈
+<img width="691" height="444" alt="image" src="https://github.com/user-attachments/assets/1d347cde-135d-4a5f-9ba6-c3f60f9da077" />
+
 
 ---
 
@@ -151,3 +153,6 @@ Visualisations were used to showcase:
 This project strengthened my Excel and analytical capabilities by transforming raw business data into meaningful insights through calculations, reporting, visualisation, and data-driven decision-making.
 
 It demonstrates practical skills relevant to **Data Analyst**, **Data Technician**, and **Business Intelligence** roles, showcasing the ability to analyse data, identify trends, and communicate findings effectively.
+
+
+<img width="525" height="362" alt="image" src="https://github.com/user-attachments/assets/c8a6d164-2a5e-4dbd-bd6a-21cb354ea586" />
